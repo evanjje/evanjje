@@ -2,7 +2,7 @@
 
 I'm a first-year student at UW-Madison
 
-I'm majoring in Computer Science, Statistics, and Data Science, and I'm minoring in mathematics.
+I'm majoring in Computer Science, Statistics, and Data Science, and I'm minoring in mathematics and economic analytics.
 
 <!---
 - Interested in machine learning and quanitative finance
