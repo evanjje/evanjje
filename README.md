@@ -1,6 +1,6 @@
 **Hello, I'm Evan Edwards**
 
-I'm a second year student at UW-Madison who has been studying there for four years (confusing, right?)
+I'm a second year student at UW-Madison, but have also studied here as a high schooler
 
 I'm majoring in Computer Science, Statistics, and Data Science, and I'm minoring in Mathematics, Studio Art, and Economic Analytics.
 
